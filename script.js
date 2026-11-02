@@ -1,10 +1,10 @@
 /* ===== EDIT HERE: contact links ===== */
 const CONFIG={
   email:"moosaagwia01@gmail.com",
-  fiverr:"",     // paste your Fiverr profile URL between the quotes
-  github:"",     // paste your GitHub URL
-  instagram:"",  // paste your Instagram URL
-  linkedin:""    // paste your LinkedIn URL
+  fiverr:"",     
+  github:"https://github.com/Moosa-agwia",     
+  instagram:"https://www.instagram.com/mwssm715", 
+  linkedin:""    
 };
 
 const PROJECTS=[
