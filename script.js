@@ -11,22 +11,22 @@ const PROJECTS=[
     {
     name:"GCRT website",
     category:"Web Development",
-    description:"this website I make it for my ",
-    details:"وصف أطول يظهر عند الضغط على زر عرض التفاصيل.",
+    description:"this website I make it for my robotic team.",
+    details:"It is a full-stack website i make it for our robotic team that named GCRT.",
     tech:["HTML","CSS","JavaScript"],
-    image:"./images/site1.jpg",
-    url:"https://رابط-موقعك.com",
-    github:"https://github.com/Moosa-agwia/اسم-المستودع"
+    image:"./images/site1.png",
+    url:"https://gcrt.pages.dev/",
+    github:"https://github.com/Moosa-agwia/GCRT"
   },
   {
-    name:"موقع ثانٍ",
+    name:"LAIDI website",
     category:"Web Development",
-    description:"...",
-    details:"...",
-    tech:["Python"],
-    image:"./images/site2.jpg",
-    url:"https://...",
-    github:""
+    description:"I make this website to the LAIDI",
+    details:"It is an organization website it is very good and clean one of rhe websites that i make it.",
+    tech:["HTML","CSS","JavaScript"],
+    image:"./images/site2.png",
+    url:"https://poetic-sprinkles-cc6939.netlify.app/",
+    github:"https://github.com/Moosa-agwia/laidi"
   }
 ];
 /* ================================== */
