@@ -25,6 +25,15 @@ const PROJECTS=[
     details:"It is an organization website it is very good and clean one of rhe websites that i make it.",
     tech:["HTML","CSS","JavaScript"],
     image:"./images/site2.png",
+    url:"https://graceful-nougat-f75aa7.netlify.app/",
+    github:"https://github.com/Moosa-agwia/protofolio"
+  },
+  {
+    name:"Protofolio Website",
+    category:"Web Development",
+    description:"This is My Protofolio website it is a wonderful website.",
+    details:"It is a Protofolio website it is very good one of the best website that i make it.",
+    tech:["HTML","CSS","JavaScript"],
     url:"https://poetic-sprinkles-cc6939.netlify.app/",
     github:"https://github.com/Moosa-agwia/laidi"
   }
