@@ -6,13 +6,29 @@ const CONFIG={
   instagram:"",  // paste your Instagram URL
   linkedin:""    // paste your LinkedIn URL
 };
-/* ===== EDIT HERE: your websites =====
-Add one object per project. Delete an object to remove it. Leave the list empty to show the empty state.
-{ name:"Site name", category:"Web Development", description:"One or two sentences.",
-  details:"Longer story shown in View Details.", tech:["HTML","CSS","JavaScript"],
-  image:"https://…/screenshot.jpg", url:"https://live-site.com", github:"https://github.com/…" }
-Categories: Web Development, Programming, Cybersecurity, Creative Experiments */
-const PROJECTS=[];
+
+const PROJECTS=[
+    {
+    name:"GCRT website",
+    category:"Web Development",
+    description:"this website I make it for my ",
+    details:"وصف أطول يظهر عند الضغط على زر عرض التفاصيل.",
+    tech:["HTML","CSS","JavaScript"],
+    image:"./images/site1.jpg",
+    url:"https://رابط-موقعك.com",
+    github:"https://github.com/Moosa-agwia/اسم-المستودع"
+  },
+  {
+    name:"موقع ثانٍ",
+    category:"Web Development",
+    description:"...",
+    details:"...",
+    tech:["Python"],
+    image:"./images/site2.jpg",
+    url:"https://...",
+    github:""
+  }
+];
 /* ================================== */
 const CATS=["Web Development","Programming","Cybersecurity","Creative Experiments"];
 const $=s=>document.querySelector(s);
