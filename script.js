@@ -1,10 +1,10 @@
 /* ===== EDIT HERE: contact links ===== */
 const CONFIG={
   email:"moosaagwia01@gmail.com",
-  fiverr:"",     
+  fiverr:"https://www.fiverr.com/moosa_agwia",     
   github:"https://github.com/Moosa-agwia",     
   instagram:"https://www.instagram.com/mwssm715", 
-  linkedin:""    
+  linkedin:"https://www.linkedin.com/in/moosa-agwia-8168653b4/"    
 };
 
 const PROJECTS=[
