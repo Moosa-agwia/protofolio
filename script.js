@@ -34,6 +34,7 @@ const PROJECTS=[
     description:"This is My Protofolio website it is a wonderful website.",
     details:"It is a Protofolio website it is very good one of the best website that i make it.",
     tech:["HTML","CSS","JavaScript"],
+    image:"./images/site3.png",
     url:"https://poetic-sprinkles-cc6939.netlify.app/",
     github:"https://github.com/Moosa-agwia/laidi"
   }
